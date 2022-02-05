@@ -1,0 +1,9 @@
+ //input[@id='form3Example3']
+//input[@id='form3Example4']
+
+
+Sorry I only have 3 minutes left before client call, please help me wrap up the call, a.Chung, c.Thuy and a.Quang Anh.
+Btw, I have 1 concern for Anh': Is the color theme you show us customized on your side only or do we support different theme? If not, please try not to show different theme if not requested by client.
+$x("//table/thead/tr/th[text()='Asset Code']/span")  
+giống Mad Lib Theater trong show của Jimmy Fallon thế c
+brunette 
